@@ -1,0 +1,7 @@
+[book]
+title = "我的文档"
+authors = ["你的名字"]
+src = "src"
+
+[output.html]
+theme = "index"  # 可选主题
