@@ -27,3 +27,5 @@ https://box.ptpress.com.cn/a/0/RC2018000020
 ```
 
 另,本人一般每年会把去年的资源整理成年份表格登记,因为此时《无线电》去年的网盘内容已经固化.
+
+注:本网站是托管在github page业务,地址 `https://nsynet.github.io/Radio_Magazine_resource/`,因为gitee的page业务关闭了,所以直接打开 `https://gitee.com/nsynet/Radio_Magazine_resource/blob/main/src/introduce.md` ,效果也是类似的.
