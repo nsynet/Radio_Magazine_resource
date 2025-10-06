@@ -1,3 +1,7 @@
+# 备注
+
+本git是托管在github page业务,网站的地址 `https://nsynet.github.io/Radio_Magazine_resource/`
+
 # mdbook-template
 
 Yield a mdbook demo with [mdbook-theme](https://github.com/zjp-CN/mdbook-theme)
