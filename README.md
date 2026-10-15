@@ -1,6 +1,12 @@
+
 # 备注
 
-本git是托管在github page业务,网站的地址 `https://nsynet.github.io/Radio_Magazine_resource/`
+
+注:本网站用于整理<无线电>杂志的公开的电子资源(源代码等),用于爱好者学习.
+
+本网站是托管在github page业务,地址 `https://nsynet.github.io/Radio_Magazine_resource/`,因为gitee的page业务关闭了,所以直接打开 `https://gitee.com/nsynet/Radio_Magazine_resource/blob/main/src/introduce.md` ,效果也是类似的.
+
+
 
 # mdbook-template
 
@@ -16,4 +22,5 @@ But for the first time after pushing to github, set the source of github page to
 ![Image](https://github.com/user-attachments/assets/51f852df-d2b8-4f92-9ef1-8a68eb3ab6b3)
 
 **Have fun with mdbook!**
+
 
